@@ -7,4 +7,4 @@ Small physics engine using C# and Winforms, with the intention being a quick wee
 - Utilizes WinForms
 
 # How to Play
-when the .exe is open it will read all keyboard inputs and create physics based faling blocks that cover your screen
+When the executable is run it will read all keyboard inputs and create physics based falling blocks that cover your screen
