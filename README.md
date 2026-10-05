@@ -1,5 +1,5 @@
 # Falling Letter Game
-Small physics engine using C# and Winforms, with the intention being a quick week long project O(n) complexity wasn't heavily considered rather the programming doing what was intended over performance and speed.
+Small physics engine using C# and Winforms, with the intention being a quick week long project O(n) complexity wasn't heavily considered rather the program doing what was intended over performance and speed.
 
 # Features
 - Uses .Net Framework
